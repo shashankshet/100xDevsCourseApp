@@ -1,0 +1,36 @@
+* {
+    border: 0;
+    padding: 0;
+    /* background-color: black; */
+  }
+  
+  .cover-img {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+  }
+  
+  .main-content {
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    justify-content: center;
+    justify-items: center;
+    /* color: white; */
+  }
+  .btn{
+    display: flex;
+    padding: 10px;
+  }
+
+  .btns{
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+    /* * {
+        border: solid 1px red;
+    }
+    */

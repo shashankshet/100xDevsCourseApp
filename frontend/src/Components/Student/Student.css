@@ -1,0 +1,24 @@
+.loginSection{
+    display: flex;
+    justify-content: center;
+}
+
+.textField{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    align-items: center;
+}
+
+/* *{
+    border: 1px solid red;
+} */
+
+.RegisterSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+  }
