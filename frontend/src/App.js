@@ -5,7 +5,7 @@ import {
   BrowserRouter as Router,
   Route, Routes
 } from "react-router-dom"
-import { Student } from './Components/Student/Student';
+import {  Student } from './Components/Student/Student';
 import { Instructor } from './Components/Instructor/Instructor';
 
 function App() {

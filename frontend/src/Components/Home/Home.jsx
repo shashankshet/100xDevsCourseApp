@@ -2,8 +2,8 @@ import React from "react";
 import { Grid } from "@mui/material";
 import "./Home.css";
 import { Button, Typography } from "@mui/material";
-import { Student } from "../Student/Student";
 import { Link } from "react-router-dom";
+
 export const Home = () => {
   return (
     <Grid container className="Home">
